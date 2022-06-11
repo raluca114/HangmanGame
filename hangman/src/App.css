@@ -1,0 +1,10 @@
+body, #root{
+  background-color: darkslategray;
+  color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 80vh;
+  margin: 0;
+  overflow: hidden;
+}

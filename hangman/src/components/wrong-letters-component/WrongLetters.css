@@ -1,0 +1,15 @@
+.wrongLetters{
+  position: absolute;
+  top: 20%;
+  right: 30%;
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+.wrongLetters p {
+    margin: 0 0 5px;
+  }
+  
+  .wrongLetters span {
+    font-size: 24px;
+  }

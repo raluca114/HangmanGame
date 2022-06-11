@@ -1,0 +1,16 @@
+.guessWord {
+    display: flex;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .letter {
+    border-bottom: 3px solid #b4cdd6;
+    display: inline-flex;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 3px;
+    height: 50px;
+    width: 20px;
+  }

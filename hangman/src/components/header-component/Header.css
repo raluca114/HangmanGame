@@ -1,0 +1,11 @@
+h1,p,h5{
+   height: 10px;
+   position: relative;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    height: 50px;
+}
